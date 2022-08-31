@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
+
+@layer base {
+    html, body {
+        height : 100%;
+        font-family : 'Poppins', sans-serif
+    }
+
+    #root {
+        min-height : 100%;
+    }
+
+    .message-content {
+        font-family : 'Segou UI';
+    }
+
+    ::-webkit-scrollbar {
+        width: 0;
+        height: 0;
+    }
+    .message-content ::-webkit-scrollbar {
+        width: 6px!important;
+        height: 6px!important;
+    }
+    .message-content ::-webkit-scrollbar-thumb {
+        background-color: #ced0d1;
+    }
+}
