@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/whatsapp-web-clone/static/css/main.421b83f3.css",
+    "main.js": "/whatsapp-web-clone/static/js/main.6b5aed2d.js",
+    "static/media/main.svg": "/whatsapp-web-clone/static/media/main.069f20c56eac54c9356f2045b4ec092d.svg",
+    "static/media/user.svg": "/whatsapp-web-clone/static/media/user.ada6bc71841845da126b3368ba2aefd7.svg",
+    "static/media/groupUser.svg": "/whatsapp-web-clone/static/media/groupUser.4049534ccd8a0790d7cd48b781a42384.svg",
+    "index.html": "/whatsapp-web-clone/index.html",
+    "static/media/status.svg": "/whatsapp-web-clone/static/media/status.ef4f18dd2f749c96f2666da8f6c01f17.svg",
+    "static/media/chat.svg": "/whatsapp-web-clone/static/media/chat.b64e0221ac81144d9e8e85b2818f6a32.svg",
+    "main.421b83f3.css.map": "/whatsapp-web-clone/static/css/main.421b83f3.css.map",
+    "main.6b5aed2d.js.map": "/whatsapp-web-clone/static/js/main.6b5aed2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.421b83f3.css",
+    "static/js/main.6b5aed2d.js"
+  ]
+}
